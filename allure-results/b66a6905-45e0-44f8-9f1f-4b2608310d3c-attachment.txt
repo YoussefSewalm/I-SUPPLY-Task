@@ -1,0 +1,47 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 4' test cases in the current suite                                        
+                                            Test Method: 'Web_GUI_Test_Automation.Second_Test.Test_2'                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://the-internet.herokuapp.com/" @20-12-2024 05:17:29.0368 AM
+[ReportManager] Initial URL: "about:blank" @20-12-2024 05:17:29.0377 AM
+[ReportManager] Navigate to url "https://the-internet.herokuapp.com/". @20-12-2024 05:17:32.0762 AM
+[ReportManager] Verify that the browser title is equal to "The Internet". @20-12-2024 05:17:32.0763 AM
+[ReportManager] Expected "The Internet", and actual "The Internet" @20-12-2024 05:17:32.0769 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-32-991_20122024' @20-12-2024 05:17:32.0992 AM
+[ReportManager] Expected "The Internet", and actual "The Internet" @20-12-2024 05:17:32.0992 AM
+[ReportManager] Verification passed @20-12-2024 05:17:32.0993 AM
+[ReportManager] Verify that the element located by "By.cssSelector: h1[class="heading"]" exists. @20-12-2024 05:17:33.0013 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:33.0052 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-33-385_20122024' @20-12-2024 05:17:33.0406 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:33.0406 AM
+[ReportManager] Verification passed @20-12-2024 05:17:33.0407 AM
+[ReportManager] Assert that the element located by "By.cssSelector: h1[class="heading"]" text contains "Welcome to the-internet". @20-12-2024 05:17:33.0408 AM
+[ReportManager] Expected "Welcome to the-internet", and actual "Welcome to the-internet" @20-12-2024 05:17:33.0458 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-33-762_20122024' @20-12-2024 05:17:33.0763 AM
+[ReportManager] Expected "Welcome to the-internet", and actual "Welcome to the-internet" @20-12-2024 05:17:33.0764 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:33.0764 AM
+[ReportManager] Click "File Upload" @20-12-2024 05:17:34.0242 AM
+[ReportManager] Type "Choose File" @20-12-2024 05:17:34.0302 AM
+[ReportManager] Click "Upload" @20-12-2024 05:17:35.0048 AM
+[ReportManager] Verify that the element located by "By.cssSelector: div[class="example"]>h3" exists. @20-12-2024 05:17:35.0070 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:35.0100 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-35-267_20122024' @20-12-2024 05:17:35.0267 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:35.0267 AM
+[ReportManager] Verification passed @20-12-2024 05:17:35.0268 AM
+[ReportManager] Assert that the element located by "By.cssSelector: div[class="example"]>h3" text contains "File Uploaded!". @20-12-2024 05:17:35.0268 AM
+[ReportManager] Expected "File Uploaded!", and actual "File Uploaded!" @20-12-2024 05:17:35.0317 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-35-531_20122024' @20-12-2024 05:17:35.0532 AM
+[ReportManager] Expected "File Uploaded!", and actual "File Uploaded!" @20-12-2024 05:17:35.0532 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:35.0532 AM
+[ReportManager] Verify that the element located by "By.id: uploaded-files" exists. @20-12-2024 05:17:35.0547 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:35.0577 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-35-735_20122024' @20-12-2024 05:17:35.0736 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:35.0736 AM
+[ReportManager] Verification passed @20-12-2024 05:17:35.0736 AM
+[ReportManager] Assert that the element located by "By.id: uploaded-files" text contains "selenium.png". @20-12-2024 05:17:35.0737 AM
+[ReportManager] Expected "selenium.png", and actual "selenium.png" @20-12-2024 05:17:35.0788 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-35-941_20122024' @20-12-2024 05:17:35.0941 AM
+[ReportManager] Expected "selenium.png", and actual "selenium.png" @20-12-2024 05:17:35.0941 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:35.0941 AM

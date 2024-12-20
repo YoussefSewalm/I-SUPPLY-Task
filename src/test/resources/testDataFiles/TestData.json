@@ -1,0 +1,28 @@
+[
+ {
+	"Url":"https://www.google.com/ncr",
+	"Title":"Google",
+	"HomePageText":"Google",
+	"SearchText":"selenium webdriver",
+	"SearchResult":"What is Selenium WebDriver for?"
+ },
+ {
+	"Url":"https://the-internet.herokuapp.com/",
+	"Title":"The Internet",
+	"HomePageText":"Welcome to the-internet",
+	"UploadSuccessText":"File Uploaded!",
+	"FileName":"selenium.png"	
+ },
+ {
+ "Url":"https://the-internet.herokuapp.com/",
+ "Title":"The Internet",
+ "HomePageText":"Welcome to the-internet",
+ "DynamicPageText":"Dynamically Loaded Page Elements",
+ "Example_2 Text":"Example 2: Element rendered after the fact",
+ "ElementsLoadedSuccessText":"Hello World!"
+ },
+ {
+  "Url":"https://cat-fact.herokuapp.com",
+  "CatFact":"Most cats are lactose intolerant, and milk can cause painful stomach cramps and diarrhea. It's best to forego the milk and just give your cat the standard: clean, cool drinking water."	
+ }
+]

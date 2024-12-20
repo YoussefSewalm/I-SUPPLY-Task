@@ -1,0 +1,37 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 4' test cases in the current suite                                        
+                                            Test Method: 'Web_GUI_Test_Automation.First_Test.Test_1'                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://www.google.com/ncr" @20-12-2024 05:17:15.0915 AM
+[ReportManager] Initial URL: "about:blank" @20-12-2024 05:17:15.0928 AM
+[ReportManager] Navigate to url "https://www.google.com/ncr". @20-12-2024 05:17:18.0978 AM
+[ReportManager] Verify that the browser title is equal to "Google". @20-12-2024 05:17:18.0994 AM
+[ReportManager] Expected "Google", and actual "Google" @20-12-2024 05:17:19.0023 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-19-798_20122024' @20-12-2024 05:17:19.0799 AM
+[ReportManager] Expected "Google", and actual "Google" @20-12-2024 05:17:19.0800 AM
+[ReportManager] Verification passed @20-12-2024 05:17:19.0800 AM
+[ReportManager] Verify that the element located by "By.xpath: //div[@id="SIvCob"]" exists. @20-12-2024 05:17:19.0835 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:19.0884 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-20-183_20122024' @20-12-2024 05:17:20.0184 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:20.0185 AM
+[ReportManager] Verification passed @20-12-2024 05:17:20.0185 AM
+[ReportManager] Assert that the element located by "By.xpath: //div[@id="SIvCob"]" text contains "Google". @20-12-2024 05:17:20.0186 AM
+[ReportManager] Expected "Google", and actual "Google offered in: العربية" @20-12-2024 05:17:20.0250 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-20-474_20122024' @20-12-2024 05:17:20.0475 AM
+[ReportManager] Expected "Google", and actual "Google offered in: العربية" @20-12-2024 05:17:20.0476 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:20.0476 AM
+[ReportManager] Clear "Search". @20-12-2024 05:17:20.0551 AM
+[ReportManager] Type "Search" @20-12-2024 05:17:20.0645 AM
+[ReportManager] Key press "ENTER" against "Search". @20-12-2024 05:17:20.0849 AM
+[ReportManager] Verify that the element located by "By.xpath: (//span[@class="JCzEY tNxQIb"]/span[@class="CSkcDe"])[1]" exists. @20-12-2024 05:17:20.0881 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:23.0227 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-23-845_20122024' @20-12-2024 05:17:23.0847 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:23.0848 AM
+[ReportManager] Verification passed @20-12-2024 05:17:23.0848 AM
+[ReportManager] Assert that the element located by "By.xpath: (//span[@class="JCzEY tNxQIb"]/span[@class="CSkcDe"])[1]" text contains "What is Selenium WebDriver for?". @20-12-2024 05:17:23.0849 AM
+[ReportManager] Expected "What is Selenium WebDriver for?", and actual "What is Selenium WebDriver for?" @20-12-2024 05:17:23.0905 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-24-399_20122024' @20-12-2024 05:17:24.0401 AM
+[ReportManager] Expected "What is Selenium WebDriver for?", and actual "What is Selenium WebDriver for?" @20-12-2024 05:17:24.0402 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:24.0402 AM

@@ -1,0 +1,15 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 4' test cases in the current suite                                        
+                                   Test Method: 'API_Test_Automation.GetCatFact.GettingCatFactAndVerifyingIt'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @20-12-2024 05:17:26.0614 AM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @20-12-2024 05:17:26.0615 AM
+[ReportManager] Handle response; GET | Response Time: 800ms. @20-12-2024 05:17:26.0642 AM
+[ReportManager] Get response jsonvalue; [1].text. @20-12-2024 05:17:26.0708 AM
+[ReportManager] Get response jsonvalue; [1]._id. @20-12-2024 05:17:26.0711 AM
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @20-12-2024 05:17:27.0459 AM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @20-12-2024 05:17:27.0459 AM
+[ReportManager] Handle response; GET | Response Time: 730ms. @20-12-2024 05:17:27.0473 AM
+[ReportManager] Get response jsonvalue; text. @20-12-2024 05:17:27.0474 AM

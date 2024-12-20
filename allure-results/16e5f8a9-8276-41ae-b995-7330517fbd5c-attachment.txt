@@ -1,0 +1,57 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 4' test cases in the current suite                                        
+                                            Test Method: 'Web_GUI_Test_Automation.Third_Test.Test_3'                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://the-internet.herokuapp.com/" @20-12-2024 05:17:38.0748 AM
+[ReportManager] Initial URL: "about:blank" @20-12-2024 05:17:38.0757 AM
+[ReportManager] Navigate to url "https://the-internet.herokuapp.com/". @20-12-2024 05:17:42.0658 AM
+[ReportManager] Verify that the browser title is equal to "The Internet". @20-12-2024 05:17:42.0659 AM
+[ReportManager] Expected "The Internet", and actual "The Internet" @20-12-2024 05:17:42.0665 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-42-867_20122024' @20-12-2024 05:17:42.0869 AM
+[ReportManager] Expected "The Internet", and actual "The Internet" @20-12-2024 05:17:42.0870 AM
+[ReportManager] Verification passed @20-12-2024 05:17:42.0870 AM
+[ReportManager] Verify that the element located by "By.cssSelector: h1[class="heading"]" exists. @20-12-2024 05:17:42.0886 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:42.0922 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-43-224_20122024' @20-12-2024 05:17:43.0225 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:43.0226 AM
+[ReportManager] Verification passed @20-12-2024 05:17:43.0226 AM
+[ReportManager] Assert that the element located by "By.cssSelector: h1[class="heading"]" text contains "Welcome to the-internet". @20-12-2024 05:17:43.0227 AM
+[ReportManager] Expected "Welcome to the-internet", and actual "Welcome to the-internet" @20-12-2024 05:17:43.0279 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-43-576_20122024' @20-12-2024 05:17:43.0585 AM
+[ReportManager] Expected "Welcome to the-internet", and actual "Welcome to the-internet" @20-12-2024 05:17:43.0585 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:43.0585 AM
+[ReportManager] Click "Dynamic Loading" @20-12-2024 05:17:43.0868 AM
+[ReportManager] Verify that the element located by "By.cssSelector: div[class="example"]>h3" exists. @20-12-2024 05:17:43.0885 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:43.0916 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-44-085_20122024' @20-12-2024 05:17:44.0087 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:44.0087 AM
+[ReportManager] Verification passed @20-12-2024 05:17:44.0087 AM
+[ReportManager] Assert that the element located by "By.cssSelector: div[class="example"]>h3" text contains "Dynamically Loaded Page Elements". @20-12-2024 05:17:44.0088 AM
+[ReportManager] Expected "Dynamically Loaded Page Elements", and actual "Dynamically Loaded Page Elements" @20-12-2024 05:17:44.0134 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-44-318_20122024' @20-12-2024 05:17:44.0319 AM
+[ReportManager] Expected "Dynamically Loaded Page Elements", and actual "Dynamically Loaded Page Elements" @20-12-2024 05:17:44.0319 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:44.0319 AM
+[ReportManager] Click "Example 2: Element rendered after the fact" @20-12-2024 05:17:44.0555 AM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="example"]/h4" exists. @20-12-2024 05:17:44.0577 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:44.0624 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-44-785_20122024' @20-12-2024 05:17:44.0786 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:44.0786 AM
+[ReportManager] Verification passed @20-12-2024 05:17:44.0786 AM
+[ReportManager] Assert that the element located by "By.xpath: //div[@class="example"]/h4" text contains "Example 2: Element rendered after the fact". @20-12-2024 05:17:44.0787 AM
+[ReportManager] Expected "Example 2: Element rendered after the fact", and actual "Example 2: Element rendered after the fact" @20-12-2024 05:17:44.0835 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-45-005_20122024' @20-12-2024 05:17:45.0006 AM
+[ReportManager] Expected "Example 2: Element rendered after the fact", and actual "Example 2: Element rendered after the fact" @20-12-2024 05:17:45.0006 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:45.0006 AM
+[ReportManager] Click "Start" @20-12-2024 05:17:45.0043 AM
+[ReportManager] Verify that the element located by "By.cssSelector: div[id="finish"]>h4" exists. @20-12-2024 05:17:45.0055 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:50.0117 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_05-17-50-322_20122024' @20-12-2024 05:17:50.0323 AM
+[ReportManager] Expected "true", and actual "true" @20-12-2024 05:17:50.0323 AM
+[ReportManager] Verification passed @20-12-2024 05:17:50.0324 AM
+[ReportManager] Assert that the element located by "By.cssSelector: div[id="finish"]>h4" text contains "Hello World!". @20-12-2024 05:17:50.0325 AM
+[ReportManager] Expected "Hello World!", and actual "Hello World!" @20-12-2024 05:17:50.0379 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_05-17-50-572_20122024' @20-12-2024 05:17:50.0576 AM
+[ReportManager] Expected "Hello World!", and actual "Hello World!" @20-12-2024 05:17:50.0577 AM
+[ReportManager] Assertion passed @20-12-2024 05:17:50.0577 AM
